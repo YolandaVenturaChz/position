@@ -1,0 +1,17 @@
+container p{
+    width: 80%;
+    margin: 0px 90px;
+}
+
+container  {
+    margin: 34px;
+    font-size: 16px;
+}
+footer{
+    width: 100%;
+    background: pink;
+    height: 89px;
+    position: absolute;
+    text-align: center;
+    font-size: 20px;
+}

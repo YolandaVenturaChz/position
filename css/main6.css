@@ -1,0 +1,21 @@
+h1 {
+      font-family: 'Magra', sans-serif;
+      font-size: 2em;
+      text-align: center;
+    }
+    #box-1 {
+      background-color: #44accf;
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      bottom: 10px;
+      left:  10px;
+    }
+    #box-2 {
+      background-color: #f4ac3f;
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      bottom: 20px;
+      left:  20px;
+    }
